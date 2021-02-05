@@ -9,6 +9,9 @@ import Register from './components/register';
 import Login from './components/login';
 import Logout from './components/logout';
 import Game from './components/Game/index';
+  
+
+
 
 import  Stories  from './components/stories';
 import Joudi from './components/story';
